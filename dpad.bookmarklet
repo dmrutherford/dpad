@@ -1,0 +1,27 @@
+data:text/html,
+
+<title>dPad</title>
+
+<link rel="shortcut icon" href="http://dmrutherford.github.com/dpad/assets/favicon.ico" />
+
+<link href='http://fonts.googleapis.com/css?family=Source+Code+Pro:400,700' rel='stylesheet' type='text/css'>
+
+<body
+	contenteditable
+	style="
+        background-color:       #35322f;
+		color:                  #cbc5c1;
+		font-family:            'Source Code Pro',
+                                monospace;
+		font-size:              1.5em;
+		line-height:            1.5;
+		max-width:              28em;
+		margin:                 0 auto;
+		padding:                4em 1.3em;
+		-webkit-font-smoothing: antialiased;
+	"
+	spellcheck="false">
+    
+<h1>dPad</h1>
+
+<p>A simple little in-browser text editor.<br />No distractions.
