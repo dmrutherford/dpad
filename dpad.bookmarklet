@@ -22,6 +22,6 @@ data:text/html,
 	"
 	spellcheck="false">
     
-<h1>dPad</h1>
+<h1 style="line-height: 1.2;">dPad</h1>
 
 <p>A simple little in-browser text editor.<br />No distractions.
