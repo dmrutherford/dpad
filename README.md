@@ -1,4 +1,4 @@
-dPad v0.1
+dPad v0.2
 =========
 
 A simple little in-browser text editor.  
